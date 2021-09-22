@@ -1,2 +1,2 @@
-# Assignements
-Test Assignement
+# Assignments
+Test Assignment
